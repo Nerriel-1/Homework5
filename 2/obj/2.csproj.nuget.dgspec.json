@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ukihi\\OneDrive\\Рабочий стол\\Homework5\\2\\2.csproj": {}
+    "C:\\Users\\ukihi\\OneDrive\\Рабочий стол\\C#семинары\\cеминар5С#\\Homework5\\2\\2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ukihi\\OneDrive\\Рабочий стол\\Homework5\\2\\2.csproj": {
+    "C:\\Users\\ukihi\\OneDrive\\Рабочий стол\\C#семинары\\cеминар5С#\\Homework5\\2\\2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ukihi\\OneDrive\\Рабочий стол\\Homework5\\2\\2.csproj",
+        "projectUniqueName": "C:\\Users\\ukihi\\OneDrive\\Рабочий стол\\C#семинары\\cеминар5С#\\Homework5\\2\\2.csproj",
         "projectName": "2",
-        "projectPath": "C:\\Users\\ukihi\\OneDrive\\Рабочий стол\\Homework5\\2\\2.csproj",
+        "projectPath": "C:\\Users\\ukihi\\OneDrive\\Рабочий стол\\C#семинары\\cеминар5С#\\Homework5\\2\\2.csproj",
         "packagesPath": "C:\\Users\\ukihi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ukihi\\OneDrive\\Рабочий стол\\Homework5\\2\\obj\\",
+        "outputPath": "C:\\Users\\ukihi\\OneDrive\\Рабочий стол\\C#семинары\\cеминар5С#\\Homework5\\2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ukihi\\AppData\\Roaming\\NuGet\\NuGet.Config"
